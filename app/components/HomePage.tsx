@@ -167,11 +167,11 @@ return (
                     </div>
                 </div>
                 <div className='w-full'>
-                    <div className='text-md font-semibold'>Developer</div>
+                    <div className='text-md font-semibold'>Developers</div>
                     <div className='py-4'>
-                        <div className='my-2'>Email: <a href= "mailto:sutharsamarth16@gmail.com">sutharsamarth16@gmail.com</a></div>
-                        <div className='my-2'>Email: sutharsamarth16@gmail.com</div>
-                        <div className='my-2'>Email: sutharsamarth16@gmail.com</div>
+                        <div className='my-2'><a href= "mailto:sutharsamarth16@gmail.com">sutharsamarth16@gmail.com</a></div>
+                        <div className='my-2'><a href= "mailto:smsuthar2520@gmail.com">smsuthar2520@gmail.com</a></div>
+                        <div className='my-2'><a href= "mailto:vrund4591@gmail.com">vrund4591@gmail.com</a></div>
 
                     </div>
                 </div>
