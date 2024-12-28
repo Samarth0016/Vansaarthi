@@ -33,7 +33,7 @@ const Navigation = () => {
             </div>
         </div>
         <div className='flex gap-2'>
-            <div className=''>
+            <div className='mt-2'>
                     <SignedOut>
                     <div className='py-2 px-6'>
                         <SignInButton  />

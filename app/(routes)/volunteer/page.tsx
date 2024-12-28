@@ -1,9 +1,12 @@
-import React from 'react'
-
+import Navigation from "@/app/components/Navigation"
+import VolunteerForm from "@/app/components/Volunteer-form"
+import { auth } from "@clerk/nextjs/server"
 const page = () => {
+    
   return (
     <div>
-      this is volunteer page
+      <Navigation></Navigation>
+      <VolunteerForm></VolunteerForm>
     </div>
   )
 }

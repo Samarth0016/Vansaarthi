@@ -10,6 +10,7 @@ return (
       backgroundImage: `url(${bg.src})`,
       width: '100%',
       height: '100%',
+      
     }}>
             <div className="flex flex-col justify-normal items-start">
                 <div className="p-4">
@@ -29,8 +30,8 @@ return (
                     </Link>
                 </div>
             </div>
-            <div className="">
-                <Card backgroundColor="bg-white" textColor="text-white">
+            <div className="" >
+                <Card backgroundColor="bg-white" textColor="text-white" >
                     {/* <img className="p-4" src="plant" height={2} width={720} alt="" /> */}
                     <Image src="/plant.jpeg" alt="image" height={2} width={720}></Image>
                 </Card>
